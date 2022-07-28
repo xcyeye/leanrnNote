@@ -69,38 +69,38 @@ module.exports = {
         /*
         * 音乐插件，使用：https://aurora.xcye.xyz/plugin/player/
         * */
-        [
-            "player",
-            {
-                disableSpace: false,
-                //网易云单个歌单id
-                songIds: ['29723011','1887893189','1421069053'],
-                //网易云歌单
-                playlist: '7082462754',
-                showPlaylist: false,
-                //是否禁用网易云音乐，如果你选择禁用，那么就将使用本地的歌曲，请传入链接
-                disabledNetEaseMusic: false,
+        // [
+        //     "player",
+        //     {
+        //         disableSpace: false,
+        //         //网易云单个歌单id
+        //         songIds: ['29723011','1887893189','1421069053'],
+        //         //网易云歌单
+        //         playlist: '7082462754',
+        //         showPlaylist: false,
+        //         //是否禁用网易云音乐，如果你选择禁用，那么就将使用本地的歌曲，请传入链接
+        //         disabledNetEaseMusic: false,
 
-                //请求接口的baseURL
-                serverUrl: 'https://netease-cloud-music-api-teal-psi.vercel.app/',
+        //         //请求接口的baseURL
+        //         serverUrl: 'https://netease-cloud-music-api-teal-psi.vercel.app/',
 
-                //本地歌曲
-                localSongs: {
-                    coverUrl: '/avatar.jpg',
-                    songs: [
-                        {
-                            path: '请自己传入mp3或者其他格式的音乐地址',
-                            songName: '12',
-                            cover: 'https://p1.music.126.net/Rg1x9LeUacIDqtvUzL35Cw==/109951163688517312.jpg'
-                        },
-                        {
-                            path: 'song/aa.mp3',//此地址是一个演示
-                            songName: '演示'
-                        }
-                    ]
-                }
-            }
-        ],
+        //         //本地歌曲
+        //         localSongs: {
+        //             coverUrl: '/avatar.jpg',
+        //             songs: [
+        //                 {
+        //                     path: '请自己传入mp3或者其他格式的音乐地址',
+        //                     songName: '12',
+        //                     cover: 'https://p1.music.126.net/Rg1x9LeUacIDqtvUzL35Cw==/109951163688517312.jpg'
+        //                 },
+        //                 {
+        //                     path: 'song/aa.mp3',//此地址是一个演示
+        //                     songName: '演示'
+        //                 }
+        //             ]
+        //         }
+        //     }
+        // ],
 
         /*
         * 气泡插件，使用：https://aurora.xcye.xyz/plugin/bubble/
