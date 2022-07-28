@@ -1,0 +1,2 @@
+
+a06a5fa972e213d33182dafa1faddfd3cf39a153	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/crypt/-/crypt-0.0.2.tgz","integrity":"sha1-iNf/fsDfuG9xPch7u0LQRNPmxBs=","time":1658969548440,"size":2307,"metadata":{"url":"https://registry.npmjs.org/crypt/-/crypt-0.0.2.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Thu, 28 Jul 2022 00:52:26 GMT","etag":"\"d97301b0e3a597e8103b75007d6ebf1d\"","last-modified":"Sat, 26 May 2018 21:24:12 GMT","vary":"Accept-Encoding"}}}

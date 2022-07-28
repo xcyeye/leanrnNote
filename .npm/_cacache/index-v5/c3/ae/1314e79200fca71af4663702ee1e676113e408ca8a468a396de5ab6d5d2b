@@ -1,0 +1,2 @@
+
+28e69958b8f82c7250222191d6f36f95353b63fa	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/etag/-/etag-1.8.1.tgz","integrity":"sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=","time":1658969547879,"size":4386,"metadata":{"url":"https://registry.npmjs.org/etag/-/etag-1.8.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Thu, 28 Jul 2022 00:52:25 GMT","etag":"\"1ccf0041293792c96d81db7f15c3561d\"","last-modified":"Sat, 26 May 2018 23:56:55 GMT","vary":"Accept-Encoding"}}}

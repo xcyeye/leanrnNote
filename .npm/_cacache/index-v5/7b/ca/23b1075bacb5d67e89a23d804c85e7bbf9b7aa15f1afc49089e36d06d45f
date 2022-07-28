@@ -1,0 +1,2 @@
+
+e4846c02d004649a55a5dbb74d8fa3a48f8b4eee	{"key":"make-fetch-happen:request-cache:https://registry.npmjs.org/ascli/-/ascli-1.0.1.tgz","integrity":"sha1-vPpZdKYvGOgcq660lzKrSoj5Brw=","time":1658969549225,"size":7316,"metadata":{"url":"https://registry.npmjs.org/ascli/-/ascli-1.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"public, immutable, max-age=31557600","content-type":"application/octet-stream","date":"Thu, 28 Jul 2022 00:52:27 GMT","etag":"\"bbb38f62c04d99f0bd3cfa42bfd704c8\"","last-modified":"Sat, 26 May 2018 17:25:50 GMT","vary":"Accept-Encoding"}}}
