@@ -46,8 +46,8 @@ module.exports = {
         [
             "coze",
             {
-                appId: 'LbGlwuHwGCy76qm8UGFyUh8o-MdYXbMMI',//你需要在leancloud中创建自己的appId，请参照文档https://aurora.xcye.xyz/plugin/coze/
-                appKey: 'bYqBRPo0HRdlb6Gvq0yFeOg5',
+                appId: 'Q1858Dy3pT2Od6UAnFpoUTow-MdYXbMMI',//你需要在leancloud中创建自己的appId，请参照文档https://aurora.xcye.xyz/plugin/coze/
+                appKey: 'Q9FVcvCCQaxGTT9zMgcBzXj8',
                 masterKey: 'eUwfvS3luIPnPiaaa',
                 //下面这些是可选的
                 avatarPath: '/avatar.jpg',//说说头像url
