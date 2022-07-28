@@ -1,0 +1,19 @@
+name: Build and Deploy
+on: 
+  push:
+      branches:
+        - main #push到哪个分支时触发自动部署，推荐main
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+
+    - name: vuepress-deploy
+      uses: jenkey2011/vuepress-deploy@master
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        TARGET_BRANCH: gh_pages
+        BUILD_SCRIPT: npm install && npm run build && npm run deploy
+        BUILD_DIR: docs/.vuepress/dist
